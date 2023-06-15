@@ -1,9 +1,6 @@
-2023/06/15-22:07:10.104 e15 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/Sync Data/LevelDB/MANIFEST-000001
-2023/06/15-22:07:10.117 e15 Recovering log #137
-2023/06/15-22:07:10.126 e15 Reusing old log /home/thenofis/.config/microsoft-edge/Default/Sync Data/LevelDB/000137.log 
-2023/06/15-22:13:41.386 de9 Level-0 table #142: started
-2023/06/15-22:13:41.390 de9 Level-0 table #142: 144283 bytes OK
-2023/06/15-22:13:41.394 de9 Delete type=0 #137
-2023/06/15-22:22:47.909 de9 Level-0 table #144: started
-2023/06/15-22:22:47.916 de9 Level-0 table #144: 132552 bytes OK
-2023/06/15-22:22:47.920 de9 Delete type=0 #141
+2023/06/16-03:01:00.704 5f3 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/06/16-03:01:00.747 5f3 Recovering log #181
+2023/06/16-03:01:00.766 5f3 Reusing old log /home/thenofis/.config/microsoft-edge/Default/Sync Data/LevelDB/000181.log 
+2023/06/16-03:01:13.544 5ca Level-0 table #185: started
+2023/06/16-03:01:13.548 5ca Level-0 table #185: 141864 bytes OK
+2023/06/16-03:01:13.552 5ca Delete type=0 #181

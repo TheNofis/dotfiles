@@ -1,21 +1,15 @@
-2023/06/15-19:42:47.971 3 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/Session Storage/MANIFEST-000001
-2023/06/15-19:42:47.971 3 Recovering log #60
-2023/06/15-19:42:47.972 3 Reusing old log /home/thenofis/.config/microsoft-edge/Default/Session Storage/000060.log 
-2023/06/15-19:45:27.050 4 Level-0 table #64: started
-2023/06/15-19:45:27.054 4 Level-0 table #64: 23192 bytes OK
-2023/06/15-19:45:27.059 4 Delete type=0 #60
-2023/06/15-19:45:27.060 4 Compacting 4@0 + 1@1 files
-2023/06/15-19:45:27.068 4 Generated table #65@0: 2159 keys, 53397 bytes
-2023/06/15-19:45:27.068 4 Compacted 4@0 + 1@1 files => 53397 bytes
-2023/06/15-19:45:27.072 4 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/06/15-19:45:27.074 4 Delete type=2 #55
-2023/06/15-19:45:27.074 4 Delete type=2 #57
-2023/06/15-19:45:27.074 4 Delete type=2 #59
-2023/06/15-19:45:27.074 4 Delete type=2 #61
-2023/06/15-19:45:27.074 4 Delete type=2 #64
-2023/06/15-20:17:48.603 4 Level-0 table #67: started
-2023/06/15-20:17:48.606 4 Level-0 table #67: 23304 bytes OK
-2023/06/15-20:17:48.613 4 Delete type=0 #63
-2023/06/15-21:42:01.882 3 Level-0 table #69: started
-2023/06/15-21:42:01.885 3 Level-0 table #69: 25615 bytes OK
-2023/06/15-21:42:01.890 3 Delete type=0 #66
+2023/06/16-02:41:03.862 3 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/Session Storage/MANIFEST-000001
+2023/06/16-02:41:03.865 3 Recovering log #83
+2023/06/16-02:41:03.866 3 Reusing old log /home/thenofis/.config/microsoft-edge/Default/Session Storage/000083.log 
+2023/06/16-02:41:04.904 4 Level-0 table #87: started
+2023/06/16-02:41:04.905 4 Level-0 table #87: 26089 bytes OK
+2023/06/16-02:41:04.909 4 Delete type=0 #83
+2023/06/16-02:41:04.909 4 Compacting 4@0 + 1@1 files
+2023/06/16-02:41:04.912 4 Generated table #88@0: 3008 keys, 80394 bytes
+2023/06/16-02:41:04.912 4 Compacted 4@0 + 1@1 files => 80394 bytes
+2023/06/16-02:41:04.916 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/16-02:41:04.916 4 Delete type=2 #76
+2023/06/16-02:41:04.916 4 Delete type=2 #79
+2023/06/16-02:41:04.916 4 Delete type=2 #81
+2023/06/16-02:41:04.916 4 Delete type=2 #84
+2023/06/16-02:41:04.916 4 Delete type=2 #87

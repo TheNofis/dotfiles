@@ -1,0 +1,6 @@
+2023/06/16-02:05:17.731 702 Creating DB /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_clips.twitch.tv_0.indexeddb.leveldb since it was missing.
+2023/06/16-02:05:17.736 702 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_clips.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/16-02:05:54.097 703 Level-0 table #5: started
+2023/06/16-02:05:54.099 703 Level-0 table #5: 22854 bytes OK
+2023/06/16-02:05:54.102 703 Delete type=0 #3
+2023/06/16-02:05:54.102 703 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

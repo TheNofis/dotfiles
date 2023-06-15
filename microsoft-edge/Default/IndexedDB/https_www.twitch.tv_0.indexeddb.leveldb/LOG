@@ -1,2 +1,3 @@
-2023/06/14-16:19:43.647 46b Creating DB /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb since it was missing.
-2023/06/14-16:19:43.651 46b Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/16-03:01:03.518 5c9 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/16-03:01:03.518 5c9 Recovering log #4
+2023/06/16-03:01:03.532 5c9 Reusing old log /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/000004.log 

@@ -1,5 +1,5 @@
 {
-   "current_locale": "en-US",
+   "current_locale": "ru",
    "hub_apps": [ {
       "auto_show": {
          "enabled": true,
@@ -31,7 +31,7 @@
          "name": "Reload"
       } ],
       "default_locale": "en",
-      "description": "Contextually relevant info for any page",
+      "description": "Получение контекстных сведений о содержимом и веб-странице, на которой вы сейчас работаете.",
       "icon": {
          "raster_icon": {
             "dark_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_chatB_active_dark.png/1.1.12/asset",
@@ -44,7 +44,7 @@
       "lifetime": "background",
       "locales": [ "af", "am", "ar", "as", "az", "bg", "bn_IN", "bs", "ca", "ca_Es_VALENCIA", "cs", "cy", "da", "de", "el", "en", "en_GB", "es", "es_MX", "et", "eu", "fa", "fi", "fil", "fil", "fr", "fr_CA", "ga", "gd", "gl", "gu", "he", "hi", "hr", "hu", "hy", "id", "is", "it", "ja", "ka", "kk", "km", "kn", "ko", "kok", "kok", "lb", "lo", "lt", "lv", "mi", "mk", "ml", "mr", "ms", "mt", "nb", "ne", "nl", "nn", "or", "pa", "pl", "pt_BR", "pt_PT", "quz", "ro", "ru", "sk", "sl", "sq", "sr_Cyrl_BA", "sr_Cyrl_RS", "sr_Latn_RS", "sv", "ta", "te", "th", "tr", "tt", "ug", "uk", "ur", "uz", "vi", "zh_CN", "zh_TW" ],
       "manifest_version": 3,
-      "name": "Bing Chat",
+      "name": "Обнаружение",
       "notifications": {
          "enabled": true,
          "triggers|flight:msUndersideGamingNotification": [ {
@@ -80,14 +80,14 @@
          "enabled": true,
          "fre_notification": {
             "enabled": false,
-            "header": "Get rewarded for using Microsoft Edge",
-            "text": "We have automatically opened Action Center to show you all the ways you can be rewarded."
+            "header": "Получайте вознаграждение за использование Microsoft Edge",
+            "text": "Мы автоматически открыли Центр уведомлений, чтобы показать все способы получения вознаграждений."
          },
-         "settings_description": "When there is a new way to be rewarded by using Microsoft Edge, the side pane will automatically show you a new offer.",
-         "settings_title": "Automatically open Action Center to see how you can be rewarded for using Microsoft Edge"
+         "settings_description": "Если появится новый способ получения вознаграждения при использовании Microsoft Edge, на боковой панели автоматически отобразится новое предложение.",
+         "settings_title": "Автоматически открывать Центр уведомлений, чтобы узнать, как можно получить вознаграждение за использование Microsoft Edge"
       },
       "default_locale": "en",
-      "description": "Explore new features and web content daily to earn valuable rewards",
+      "description": "Ежедневно просматривайте новые функции и веб-содержимое, чтобы получать ценные вознаграждения",
       "disabled|auth:aad": true,
       "flights": [ "msEdgeNurturingHub" ],
       "icon": {
@@ -105,7 +105,7 @@
          "markets": [ "CU", "IR", "KP", "SD", "SY", "UA", "IL", "MA", "AE", "AF", "BY", "RU", "VE", "PS" ],
          "type": "disable"
       },
-      "name": "Action center",
+      "name": "Центр уведомлений",
       "notifications": {
          "enabled": true
       },
@@ -120,7 +120,7 @@
          "deprecated_hide_header": true
       },
       "default_locale": "en",
-      "description": "Search without losing your place",
+      "description": "Поиск без потери места",
       "icon": {
          "raster_icon": {
             "dark_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_search_maximal_dark.png/1.3.5/asset",
@@ -132,7 +132,7 @@
       "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt4hQKaectrxRqrwVypOGrEzwskegvlsFoamNaSDGR8t7k/iuwOjFqeI8nzugCcPgRRRDT3bWJ2YqUeUHxEzQvinK2qpnsXm33wVddnsnj5eH5oI001qTXolK5ia78+Y8bq16GMM4S7jzIJLxKlRwvI7Mus3xt3kcxeQNk0afzHoDB+C8TsqGUWsbG0AzpvMn4BJC1szWHrVHPCx+vEztXAbglgt8g7bqqB5fJ4A50QA3GIbCYv2nnTCyPXOYayRjjRqNj+GuwZFRMvbKzyym2woCIhyJ43wIEUmOX1e+VbLHA5M5O2r9+dypMXif3jJLMC8drisNJuaPVxSAj+qDTwIDAQAB",
       "locales": [ "af", "am", "ar", "as", "az", "bg", "bn_IN", "bs", "ca", "ca_Es_VALENCIA", "cs", "cy", "da", "de", "el", "en", "en_GB", "es", "es_MX", "et", "eu", "fa", "fi", "fil", "fil", "fr", "fr_CA", "ga", "gd", "gl", "gu", "he", "hi", "hr", "hu", "hy", "id", "is", "it", "ja", "ka", "kk", "km", "kn", "ko", "kok", "kok", "lb", "lo", "lt", "lv", "mi", "mk", "ml", "mr", "ms", "mt", "nb", "ne", "nl", "nn", "or", "pa", "pl", "pt_BR", "pt_PT", "quz", "ro", "ru", "sk", "sl", "sq", "sr_Cyrl_BA", "sr_Cyrl_RS", "sr_Latn_RS", "sv", "ta", "te", "th", "tr", "tt", "ug", "uk", "ur", "uz", "vi", "zh_CN", "zh_TW" ],
       "manifest_version": 3,
-      "name": "Search",
+      "name": "Поиск",
       "on_by_default": true,
       "target": {
          "command": "search"
@@ -143,7 +143,7 @@
          "deprecated_hide_header": true
       },
       "default_locale": "en",
-      "description": "Contextually relevant info for any page",
+      "description": "Получение контекстных сведений о содержимом и веб-странице, на которой вы сейчас работаете.",
       "icon": {
          "raster_icon": {
             "dark_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_chatB_active_dark.png/1.6.8/asset",
@@ -155,7 +155,7 @@
       "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkir9eBusSu3fIWbShjTCGKwVouE42cYbsA86vz0rVOp41mAegrFS8udIYkX9hhtwlRZ+VY3HNX5drrknB188JTpap5fCKuOc1e8GoFXEOXCdb9MHjLwZsFjB6lwQcCMqtBJSQs9zeO3FxyDkoU/KKWLIK4XCG8Mze5pVsGkIeRbjO8IR1/xhAyLbXItjstlbTk1z6kffUkXk47DYVtX8k8K5havcW9itCyRmVSl+yeTyORmiqJ2kafPALff5iHc11xogtv331dv7F2ZUsxcEKo0v3BeZvUnFiRFEh8iizlS3OY1vw9CA1kTFpaMUFKCf2xMbWNraNgAGGi32wApvNQIDAQAB",
       "locales": [ "af", "am", "ar", "as", "az", "bg", "bn_IN", "bs", "ca", "ca_Es_VALENCIA", "cs", "cy", "da", "de", "el", "en", "en_GB", "es", "es_MX", "et", "eu", "fa", "fi", "fil", "fil", "fr", "fr_CA", "ga", "gd", "gl", "gu", "he", "hi", "hr", "hu", "hy", "id", "is", "it", "ja", "ka", "kk", "km", "kn", "ko", "kok", "kok", "lb", "lo", "lt", "lv", "mi", "mk", "ml", "mr", "ms", "mt", "nb", "ne", "nl", "nn", "or", "pa", "pl", "pt_BR", "pt_PT", "quz", "ro", "ru", "sk", "sl", "sq", "sr_Cyrl_BA", "sr_Cyrl_RS", "sr_Latn_RS", "sv", "ta", "te", "th", "tr", "tt", "ug", "uk", "ur", "uz", "vi", "zh_CN", "zh_TW" ],
       "manifest_version": 3,
-      "name": "Discover",
+      "name": "Обнаружение",
       "notifications": {
          "enabled": true
       },
@@ -169,7 +169,7 @@
          "deprecated_hide_header": true
       },
       "default_locale": "en",
-      "description": "Find the web pages you've visited",
+      "description": "Поиск веб-страниц, которые вы посещали",
       "flights": [ "msEdgeHubAppHistory" ],
       "icon": {
          "raster_icon": {
@@ -182,7 +182,7 @@
       "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr0ITUOWdQlDuXa7M78jbm6X00wWeZ9JnDPTpzwdx4CyB9nMWlMSXM9A6r005PJMe8Qq89/nK+9hohF5Q4wVjLNd9RnlkM4CZHIQjFJ6u3dFd2JBhjwpCN/kDHJ66rcBQv0GTf6KfDkfFNnqehPLUdMEt5IeMxWYiOrzEGw5qR/FR71JiKClubnYiu3tlVx87LW33aFVBOiqvbOeJilHlNQ8JNPcxpXEMLm/9wEUuIPrxOA2dvwC8m8Rpev3OB2dHy4FbuMTvDP5JoE8OjZR1LDnpL+AgQiwqYockZPYHPjRew2OfCcCO7AKt4r1YlQytR8RTGlFOz7ANDH/ybW+nHwIDAQAB",
       "locales": [ "af", "am", "ar", "as", "az", "bg", "bn_IN", "bs", "ca", "ca_Es_VALENCIA", "cs", "cy", "da", "de", "el", "en", "en_GB", "es", "es_MX", "et", "eu", "fa", "fi", "fil", "fr", "fr_CA", "ga", "gd", "gl", "gu", "he", "hi", "hr", "hu", "hy", "id", "is", "it", "ja", "ka", "kk", "km", "kn", "ko", "kok", "lb", "lo", "lt", "lv", "mi", "mk", "ml", "mr", "ms", "mt", "nb", "ne", "nl", "nn", "or", "pa", "pl", "pt_BR", "pt_PT", "quz", "ro", "ru", "sk", "sl", "sq", "sr_Cyrl_BA", "sr_Cyrl_RS", "sr_Latn_RS", "sv", "ta", "te", "th", "tr", "tt", "ug", "uk", "ur", "uz", "vi", "zh_CN", "zh_TW" ],
       "manifest_version": 3,
-      "name": "History",
+      "name": "Журнал",
       "target": {
          "url": "edge://history/hub?sidebar=true"
       },
@@ -208,7 +208,7 @@
          "name": "Shopping settings"
       } ],
       "default_locale": "en",
-      "description": "Coupons, compare savings and save money while you shop",
+      "description": "Купоны, сравните экономию и сберегите деньги при покупки",
       "icon": {
          "raster_icon": {
             "dark_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_shopping_maximal_dark.png/1.3.13/asset",
@@ -220,7 +220,7 @@
       "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArFrwkQUT/uXs4cLue1wGM6IVLwAHKQTC3dVBqKRRWqYisp9Y4LQvawAWT+rTjoQlWXMmlLW6y+EhyqgXIfI8HQxH0yi4eK9mzOQh1X8qTDhOggE37QdVw4Xx5f5qrqPiGdS538gNT6PtJNg+STB1MjLrfGjd+Sld3FnBhSgGYzP31HpN9WdPcaTuq6Z7bhhWvGyQMDIZPfIgGYnCGrHsNFkbYVNtCLd9e6xPadb2Yt2WFBkA0yFXt6XyQI0zRM8llUYnoFhhAKW30QCGF2rYdrb3hsPBhZ1LFUxGwSUI3HRB9y4CFNKkN84ebft+2YrZoClV3kXjXUPCLRinHxhkjwIDAQAB",
       "locales": [ "af", "am", "ar", "as", "az", "bg", "bn_IN", "bs", "ca", "ca_Es_VALENCIA", "cs", "cy", "da", "de", "el", "en", "en_GB", "es", "es_MX", "et", "eu", "fa", "fi", "fil", "fil", "fr", "fr_CA", "ga", "gd", "gl", "gu", "he", "hi", "hr", "hu", "hy", "id", "is", "it", "ja", "ka", "kk", "km", "kn", "ko", "kok", "kok", "lb", "lo", "lt", "lv", "mi", "mk", "ml", "mr", "ms", "mt", "nb", "ne", "nl", "nn", "or", "pa", "pl", "pt_BR", "pt_PT", "quz", "ro", "ru", "sk", "sl", "sq", "sr_Cyrl_BA", "sr_Cyrl_RS", "sr_Latn_RS", "sv", "ta", "te", "th", "tr", "tt", "ug", "uk", "ur", "uz", "vi", "zh_CN", "zh_TW" ],
       "manifest_version": 3,
-      "name": "Shopping",
+      "name": "Покупки",
       "notifications": {
          "enabled": true
       },
@@ -261,10 +261,10 @@
             }
          },
          "location": "header_button",
-         "name": "Open Settings"
+         "name": "Открыть параметры"
       } ],
       "default_locale": "en",
-      "description": "Easy access to commonly used tools",
+      "description": "Простой доступ к часто используемым инструментам",
       "icon": {
          "raster_icon": {
             "dark_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_toolbox_maximal_dark.png/1.5.13/asset",
@@ -276,7 +276,7 @@
       "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwObPXnwvVIsgkbS1X0HoELYiBj9YIW7EKutbhdvquZGefN+dS+3hK9uBUtnDPFQzfwoFJQFxFMvQLo+7eg0XK+z6Z/pGCQ2t9ytblqOh4burwHqlx+ZY4RvRuJpmm6c28Au8FAvL7oJYFl3eM1zmktdghpri4K7AKy/8icvg7qgI8jteQqVXAkDXWD29hODexg2+7ISmmvj+3OFIHqCX5At0PKYuu4EJSY06QPksOfV3Rpapc4JuN7laggUxhFhCuobg6PmGVs3W06YqmLp8yFJ7aBUoQOFTkJrG8pQ8OMpRbxtsFs6jaTo0drmoSsw5uaKqLqRdVicxFdjnpHp5KwIDAQAB",
       "locales": [ "af", "am", "ar", "as", "az", "bg", "bn_IN", "bs", "ca", "ca_Es_VALENCIA", "cs", "cy", "da", "de", "el", "en", "en_GB", "es", "es_MX", "et", "eu", "fa", "fi", "fil", "fil", "fr", "fr_CA", "ga", "gd", "gl", "gu", "he", "hi", "hr", "hu", "hy", "id", "is", "it", "ja", "ka", "kk", "km", "kn", "ko", "kok", "kok", "lb", "lo", "lt", "lv", "mi", "mk", "ml", "mr", "ms", "mt", "nb", "ne", "nl", "nn", "or", "pa", "pl", "pt_BR", "pt_PT", "quz", "ro", "ru", "sk", "sl", "sq", "sr_Cyrl_BA", "sr_Cyrl_RS", "sr_Latn_RS", "sv", "ta", "te", "th", "tr", "tt", "ug", "uk", "ur", "uz", "vi", "zh_CN", "zh_TW" ],
       "manifest_version": 3,
-      "name": "Tools",
+      "name": "Инструменты",
       "on_by_default": true,
       "on_by_default|device:managed": false,
       "target": {
@@ -291,12 +291,12 @@
          "enabled": true,
          "fre_notification": {
             "enabled": false,
-            "header": "Was opening this pane helpful to you?",
-            "text": "Was opening this pane helpful to you?"
+            "header": "Открытие этой панели было полезным?",
+            "text": "Открытие этой панели было полезным?"
          },
          "lifetime": "tab",
-         "settings_description": "Allows links from different Windows OS surfaces to open Casual Games in the sidepane when Microsoft Edge is launched.",
-         "settings_title": "Automatically open Casual Games in the side pane",
+         "settings_description": "Разрешает ссылкам из разных поверхностей ОС Windows открывать казуальные игры в боковой панели навигации при запуске Microsoft Edge.",
+         "settings_title": "Автоматически открывать казуальные игры в боковой панели навигации",
          "triggering_configs|flight:msHubAppsGamesAutoShowTriggering": [ {
             "max_show_count": 3,
             "min_sec_between_auto_show": 86400,
@@ -323,10 +323,10 @@
             "builtin_icon": "OpenInNew"
          },
          "location": "header_button",
-         "name": "Open link in new tab"
+         "name": "Открыть в новой вкладке"
       } ],
       "default_locale": "en",
-      "description": "Play popular games for free",
+      "description": "Играйте в популярные игры бесплатно",
       "icon": {
          "raster_icon": {
             "dark_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_games_maximal_dark.png/1.6.16/asset",
@@ -348,12 +348,12 @@
       "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyhZ1RwLSI4aEplpF6h28XAlLdOKZTDHs/hZrlCarhgS7Umty+81JzHSae2McS7vrETtULFYVdc0O5qSVOWtqABGMm16voA0OohGM2wuJXMxV4+jIgcUHz5BzGIYTBhQJ6eRFAXVRvG0R/TrG/iiOfwBKH5gbQW/J+ojGcGTBu41uSNThFuynZp9rt73y0llJWRNydgvBYOXnM+XAutaAmxm24VdikFY/57gVBDEb6btHG0icgkSUAcYTVi4vKWHomer76KzXmoJxlYKwZOOFmiAtjzZlN+c6RzE833sGGjFH73pvExJzjEELWGcN+3sSB17PRD8fS53dLni+7UFXkwIDAQAB",
       "locales": [ "af", "am", "ar", "as", "az", "bg", "bn_IN", "bs", "ca", "ca_Es_VALENCIA", "cs", "cy", "da", "de", "el", "en", "en_GB", "es", "es_MX", "et", "eu", "fa", "fi", "fil", "fil", "fr", "fr_CA", "ga", "gd", "gl", "gu", "he", "hi", "hr", "hu", "hy", "id", "is", "it", "ja", "ka", "kk", "km", "kn", "ko", "kok", "kok", "lb", "lo", "lt", "lv", "mi", "mk", "ml", "mr", "ms", "mt", "nb", "ne", "nl", "nn", "or", "pa", "pl", "pt_BR", "pt_PT", "quz", "ro", "ru", "sk", "sl", "sq", "sr_Cyrl_BA", "sr_Cyrl_RS", "sr_Latn_RS", "sv", "ta", "te", "th", "tr", "tt", "ug", "uk", "ur", "uz", "vi", "zh_CN", "zh_TW" ],
       "manifest_version": 3,
-      "name": "Games",
+      "name": "Игры",
       "notifications": {
          "awareness_prompts": {
             "bubble_notifications": {
                "domains": [ "chess.com", "gamedistribution.com", "gsn.com", "shockwave.com", "mahjong.com", "solitr.com", "worldofsolitaire.com", "solitaired.com", "freeonlinegames.com", "247solitaire.com", "springsolitaire.com", "solitairesummer.com", "fallsolitaire.com", "wintersolitaire.com", "christmas-solitaire.com", "solitaireeaster.com", "4thofjulysolitaire.com", "solitairehalloween.com", "thanksgivingsolitaire.com", "newyearssolitaire.com", "valentinesdaysolitaire.com", "stpatricksdaysolitaire.com", "cincodemayosolitaire.com", "cardgamespidersolitaire.com", "yukonsolitaire.net", "scorpionsolitaire.net", "247spidersolitaire.com", "cardgamesolitaire.com", "solitairetime.com", "247klondike.com", "247patience.com", "cardgameklondike.com", "cardgamepatience.com", "spiderettesolitaire.net", "247mahjong.com", "247sudoku.com", "247freecell.com", "123freecell.com", "cardgamefreecell.com", "247backgammon.org", "247blackjack.com", "247bridge.com", "247checkers.com", "247chess.com", "247hearts.com", "247freepoker.com", "247roulette.org", "247slots.org", "247spades.com", "247videopoker.org", "247wordsearch.com", "247crossword.com", "247minesweeper.com", "247spacerocks.com", "a10.com", "y8.com", "newgrounds.com", "agame.com", "armorgames.com", "kizi.com", "poki.com", "addictinggames.com", "bigfishgames.com", "arkadium.com", "nano.ubisoft.com", "cardgames.io", "pogo.com", "miniclip.com", "kongregate.com", "games.aarp.org", "games.usatoday.com", "games.washingtonpost.com" ],
-               "text": "Explore more games to play!"
+               "text": "Узнайте о других играх!"
             }
          },
          "enabled": true
@@ -379,11 +379,11 @@
          "enabled": true,
          "fre_notification": {
             "enabled": false,
-            "header": "Was opening this pane helpful to you?",
-            "text": "Was opening this pane helpful to you?"
+            "header": "Открытие этой панели было полезным?",
+            "text": "Открытие этой панели было полезным?"
          },
-         "settings_description": "Allows links from different Windows OS surfaces to open Office in the sidepane when Microsoft Edge is launched.",
-         "settings_title": "Automatically open Office in the side pane"
+         "settings_description": "Разрешает ссылкам из разных поверхностей ОС Windows открывать Office в боковой панели навигации при запуске Microsoft Edge.",
+         "settings_title": "Автоматически открывать Office в боковой панели навигации"
       },
       "custom_actions": [ {
          "action": {
@@ -397,7 +397,7 @@
             }
          },
          "location": "hovercard",
-         "name": "Create new document"
+         "name": "Создать документ"
       }, {
          "action": {
             "target": "new_tab",
@@ -410,7 +410,7 @@
             }
          },
          "location": "hovercard",
-         "name": "Create new workbook"
+         "name": "Создать книгу"
       }, {
          "action": {
             "target": "new_tab",
@@ -423,7 +423,7 @@
             }
          },
          "location": "hovercard",
-         "name": "Create new presentation"
+         "name": "Создать презентацию"
       }, {
          "action": {
             "target": "sidepane",
@@ -434,12 +434,12 @@
             "builtin_icon": "Search"
          },
          "location": "header_button",
-         "name": "Search"
+         "name": "Поиск"
       } ],
       "custom_actions|flight:msEdgeHubAppOfficePlusChina": [  ],
       "default_locale": "en",
       "description": "Access Microsoft 365 apps for free",
-      "description|flight:msRemoveStringFromChromiumCode": "Access Microsoft 365 apps for free",
+      "description|flight:msRemoveStringFromChromiumCode": "Бесплатный доступ к приложениям Microsoft 365",
       "icon": {
          "raster_icon": {
             "dark_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_M365_dark.png/1.7.29/asset",
@@ -457,7 +457,7 @@
             "bubble_notifications": {
                "domains": [ "www.office.com", "www.microsoft365.com" ],
                "text": "Office is now Microsoft 365. Use for free!",
-               "text|flight:msRemoveStringFromChromiumCode": "Use Microsoft 365 for free!"
+               "text|flight:msRemoveStringFromChromiumCode": "Office теперь называется Microsoft 365. Этим можно пользоваться бесплатно!"
             }
          },
          "enabled": true
@@ -480,21 +480,21 @@
          "enabled": true,
          "fallback_notification": {
             "show_count": 5,
-            "text": "View the email you came from in the side pane"
+            "text": "Просмотреть письмо, с которого вы перешли, на боковой панели"
          },
          "fre_notification": {
             "enabled": true,
-            "header": "Was opening the email in the pane helpful to you?",
+            "header": "Открытие этой панели было полезным?",
             "show_count": 3,
-            "text": "Was opening the email in the pane helpful to you?"
+            "text": "Открытие этой панели было полезным?"
          },
          "lifetime": "tab",
          "remember_context": {
             "time_to_live_sec": 86400
          },
-         "settings_description": "When a web link is opened from an Outlook email, the side pane will automatically open to show that email for context.",
+         "settings_description": "При открытии веб-ссылки из сообщения электронной почты Outlook боковая панель будет автоматически открываться для отображения этого сообщения электронной почты для контекста.",
          "settings_learn_more_link": "https://go.microsoft.com/fwlink/?linkid=2213996",
-         "settings_title": "Automatically open Outlook email context in the side pane"
+         "settings_title": "Автоматически открывать контекст электронной почты Outlook на боковой панели"
       },
       "capabilities": {
          "enable_force_dark_mode": true,
@@ -511,7 +511,7 @@
             "builtin_icon": "NewEmail"
          },
          "location": "hovercard",
-         "name": "Compose new mail"
+         "name": "Создать сообщение"
       }, {
          "action": {
             "target": "sidepane",
@@ -523,7 +523,7 @@
             "builtin_icon": "NewEvent"
          },
          "location": "hovercard",
-         "name": "Create new event"
+         "name": "Создать событие"
       }, {
          "action": {
             "target": "sidepane",
@@ -535,10 +535,10 @@
             "builtin_icon": "Home"
          },
          "location": "header_button",
-         "name": "Home"
+         "name": "Главная"
       } ],
       "default_locale": "en",
-      "description": "Check email while staying in your flow",
+      "description": "Проверяйте электронную почту, оставаясь в потоке",
       "icon": {
          "raster_icon": {
             "dark_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_outlook_dark.png/1.8.8/asset",
@@ -557,7 +557,7 @@
          "awareness_prompts|flight:msEdgeHubAppOutlookAwarenessPrompts": {
             "bubble_notifications": {
                "domains": [ "outlook.live.com", "outlook.com", "outlook-sdf.office.com" ],
-               "text": "Check your mail while staying in your work flow"
+               "text": "Проверяйте электронную почту, оставаясь в потоке работы!"
             }
          },
          "enabled": true,
@@ -617,7 +617,7 @@
             }
          },
          "location": "header_context_menu",
-         "name": "Drop settings"
+         "name": "Параметры Drop"
       }, {
          "action": {
             "event": "action_refresh_sync",
@@ -631,10 +631,10 @@
             }
          },
          "location": "header_button",
-         "name": "Refresh"
+         "name": "Обновить"
       } ],
       "default_locale": "en",
-      "description": "Send files across your mobile and desktop devices",
+      "description": "Отправка файлов на мобильные и настольные устройства",
       "icon": {
          "raster_icon": {
             "dark_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_edrop_maximal_dark.png/1.1.9/asset",
@@ -662,7 +662,7 @@
          "resize_disabled": true
       },
       "default_locale": "en",
-      "description": "Plant trees to protect our earth together",
+      "description": "Посадите деревья, чтобы защитить нашу землю вместе",
       "disabled|auth:aad": true,
       "disabled|locale:af:am:as:bs:fil:ga:gd:gu:hy:kk:km:kn:kok:lb:lo:mi:ml:ms:mt:or:pa:quz:ta:tt:ug:uz": true,
       "flights": [  ],
@@ -682,7 +682,7 @@
          "awareness_prompts": {
             "bubble_notifications": {
                "domains": [ "scorecard.org", "greenpeace.org", "sierraclub.org", "enn.com", "edf.org", "panda.org", "climateark.org", "unep.org", "conservation.org", "audubon.org", "earthday.net", "nature.org", "1800cleanup.org", "foe.org", "cleanup.com.au", "earthtimes.org", "ase.org", "nwf.org", "nature.com", "ucsusa.org", "amrivers.org", "epa.gov", "ran.org", "oneworld.net", "auduboninstitute.org", "earthvision.net", "earthwatch.org", "worldwatch.org", "crest.org", "ecologyfund.com", "therainforestsite.com", "climate.org", "treehugger.com", "saveourenvironment.org", "whitehouse.gov", "uli.org", "wcs.org", "rff.org", "wilderness.org", "ens-newswire.com", "earthsite.org", "sustainable.org", "wwfcanada.org", "weathervane.rff.org", "bbc.co.uksn", "faircompanies.com", "afdc.doe.gov", "earthcharter.org", "crest.orggem.html", "earthtrends.wri.org", "carfree.com", "awea.org", "envirosense.org", "cousteau.org", "davidsuzuki.org", "rainforestweb.org", "emagazine.com", "iucn.orgthemeslaw", "cnie.org", "amazonwatch.org", "fws.gov", "ata.org.au", "recycle.netrecycle", "eerc.und.nodak.edu", "recycle.com", "globalforestwatch.org", "nrdc.org.", "panda.org", "ccap.org", "ecoworld.com", "carnivorousplants.org", "envsc.org", "epa.gov", "ases.org", "noaa.gov", "ctic.purdue.edu", "cei.org", "ourplanet.com", "geocities.com", "ecowise.com", "ramsar.org", "sbeap.org", "wmo.ch", "ecobeetle.com", "cserc.org", "wetland.org", "earthhopenetwork.net", "savetherainforest.org", "wetlands.com", "karmavision.tv", "wildernesscommittee.org", "farmlandinfo.org", "scientific-alliance.com", "elpnet.org" ],
-               "text": "Get your free seed"
+               "text": "Получить бесплатное семечко"
             }
          },
          "enabled": true
@@ -699,7 +699,7 @@
          "show_domain_in_header": true
       },
       "default_locale": "en",
-      "description": "Take notes as you browse the web",
+      "description": "Делайте заметки во время просмотра веб-страниц",
       "icon": {
          "raster_icon": {
             "dark_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_onenote_dark.png/1.4.9/asset",
@@ -711,7 +711,7 @@
       "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzWyf6Wmn7Q9fEybaviyEhPJEAXSDsEjvVMs072jPC8+lF6uWJYOtB5rBujENF8fUpN7jloiZ9mpjeIpIYR7euf5zT/2wskXpVextOPp07DDXCAQNArY1NNZoRNMSLav09MMP2nbA02CZFe705DlZqi+PE7TmqDa80FCXO6rJVVD6sjxGSwWitQ8y5mRXl/HKtBfDpozQ3nNwk9dGkrYV2AJUItcx1lCEqPKBxfztK1Ba/buhWgjhUxMQcUBkmR2ItvfK80M24AKBd0g0Zc6NJZAvsIBWFEgkUhMFktpaS2e42v7TsL8RjrjNeCH3u+WBZuonmX0JHHOMww+5eLfUDQIDAQAB",
       "locales": [ "af", "am", "ar", "as", "az", "bg", "bn_IN", "bs", "ca", "ca_Es_VALENCIA", "cs", "cy", "da", "de", "el", "en", "en_GB", "es", "es_MX", "et", "eu", "fa", "fi", "fil", "fil", "fr", "fr_CA", "ga", "gd", "gl", "gu", "he", "hi", "hr", "hu", "hy", "id", "is", "it", "ja", "ka", "kk", "km", "kn", "ko", "kok", "kok", "lb", "lo", "lt", "lv", "mi", "mk", "ml", "mr", "ms", "mt", "nb", "ne", "nl", "nn", "or", "pa", "pl", "pt_BR", "pt_PT", "quz", "ro", "ru", "sk", "sl", "sq", "sr_Cyrl_BA", "sr_Cyrl_RS", "sr_Latn_RS", "sv", "ta", "te", "th", "tr", "tt", "ug", "uk", "ur", "uz", "vi", "zh_CN", "zh_TW" ],
       "manifest_version": 3,
-      "name": "OneNote Feed",
+      "name": "Веб-канал OneNote",
       "target": {
          "url": "https://www.onenote.com/stickynotes?isEdgeHub=true",
          "url|auth:aad": "https://www.onenote.com/stickynotes?isEdgeHub=true&auth=2",
@@ -789,10 +789,10 @@
             "builtin_icon": "OpenInNew"
          },
          "location": "header_button",
-         "name": "Open link in new tab"
+         "name": "Открыть в новой вкладке"
       } ],
       "default_locale": "en",
-      "description": "Listen to music on Deezer!",
+      "description": "Слушайте музыку в Deezer!",
       "icon": {
          "raster_icon": {
             "light_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_deezer.png/1.4.12/asset"
@@ -826,10 +826,10 @@
             "builtin_icon": "OpenInNew"
          },
          "location": "header_button",
-         "name": "Open link in new tab"
+         "name": "Открыть в новой вкладке"
       } ],
       "default_locale": "en",
-      "description": "Listen to music on Apple Music!",
+      "description": "Слушайте музыку в Apple Music!",
       "device_emulation": "touch",
       "icon": {
          "raster_icon": {
@@ -864,10 +864,10 @@
             "builtin_icon": "OpenInNew"
          },
          "location": "header_button",
-         "name": "Open link in new tab"
+         "name": "Открыть в новой вкладке"
       } ],
       "default_locale": "en",
-      "description": "Listen to music on Spotify!",
+      "description": "Слушайте музыку в Spotify!",
       "icon": {
          "raster_icon": {
             "light_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_spotify.png/1.4.12/asset"
@@ -902,10 +902,10 @@
             "builtin_icon": "OpenInNew"
          },
          "location": "header_button",
-         "name": "Open link in new tab"
+         "name": "Открыть в новой вкладке"
       } ],
       "default_locale": "en",
-      "description": "Listen to music on Amazon Music!",
+      "description": "Слушайте музыку на Amazon Music!",
       "icon": {
          "raster_icon": {
             "light_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_amazon_music_light.png/1.4.13/asset"
@@ -1009,10 +1009,10 @@
             "builtin_icon": "OpenInNew"
          },
          "location": "header_button",
-         "name": "Open link in new tab"
+         "name": "Открыть в новой вкладке"
       } ],
       "default_locale": "en",
-      "description": "Chat with people via Messenger",
+      "description": "Беседуйте с пользователями в Messenger",
       "icon": {
          "raster_icon": {
             "light_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_facebook_messenger.png/1.5.14/asset"
@@ -1048,10 +1048,10 @@
             "builtin_icon": "OpenInNew"
          },
          "location": "header_button",
-         "name": "Open link in new tab"
+         "name": "Открыть в новой вкладке"
       } ],
       "default_locale": "en",
-      "description": "Chat with people via Instagram",
+      "description": "Чат с другими людьми через Instagram",
       "icon": {
          "raster_icon": {
             "light_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_instagram.png/1.4.13/asset"
@@ -1449,10 +1449,10 @@
             "builtin_icon": "OpenInNew"
          },
          "location": "header_button",
-         "name": "Open link in new tab"
+         "name": "Открыть в новой вкладке"
       } ],
       "default_locale": "en",
-      "description": "Chat with people via WhatsApp",
+      "description": "Чат с другими людьми через WhatsApp",
       "icon": {
          "raster_icon": {
             "light_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_whatsapp_light.png/1.4.11/asset"
@@ -1480,28 +1480,28 @@
          "enabled": true,
          "fallback_notification": {
             "show_count": 5,
-            "text": "View the chat you came from in the side pane"
+            "text": "Просмотреть чат, из которого вы перешли, на боковой панели"
          },
          "fre_notification": {
             "enabled": true,
-            "header": "Was opening this pane helpful to you?",
+            "header": "Открытие этой панели было полезным?",
             "show_count": 3,
-            "text": "Was opening this pane helpful to you?"
+            "text": "Открытие этой панели было полезным?"
          },
          "lifetime|flight:msHubAppTeamsAutoShowTabLifetime": "tab",
          "remember_context": {
             "time_to_live_sec": 86400
          },
-         "settings_description": "When a web link is opened from a Teams chat, the side pane will show that chat for context.",
+         "settings_description": "При открытии веб-ссылки из чата Teams боковая панель будет отображать этот чат для контекста.",
          "settings_learn_more_link": "https://go.microsoft.com/fwlink/?linkid=2213996",
-         "settings_title": "Automatically open Teams chat context in the side pane"
+         "settings_title": "Автоматически открывать контекст чата Teams на боковой панели"
       },
       "capabilities": {
          "hide_navigation_buttons": true,
          "show_domain_in_header": true
       },
       "default_locale": "en",
-      "description": "Check your chat while staying in the flow",
+      "description": "Проверьте чат Teams, не отвлекаясь от своих дел",
       "disabled": true,
       "disabled|auth:aad": false,
       "dormancy": {
@@ -1545,10 +1545,10 @@
             "builtin_icon": "OpenInNew"
          },
          "location": "header_button",
-         "name": "Open link in new tab"
+         "name": "Открыть в новой вкладке"
       } ],
       "default_locale": "en",
-      "description": "Check email while staying in your flow.",
+      "description": "Проверяйте электронную почту, оставаясь в потоке",
       "icon": {
          "raster_icon": {
             "light_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_gmail.png/1.5.4/asset"
@@ -1563,7 +1563,7 @@
          "awareness_prompts": {
             "bubble_notifications": {
                "domains": [ "gmail.com" ],
-               "text": "Check your mail while staying in your browser flow"
+               "text": "Проверяйте почту, оставаясь в браузере"
             }
          },
          "enabled": true
@@ -1587,10 +1587,10 @@
             "builtin_icon": "OpenInNew"
          },
          "location": "header_button",
-         "name": "Open link in new tab"
+         "name": "Открыть в новой вкладке"
       } ],
       "default_locale": "en",
-      "description": "Browse videos while staying in your flow.",
+      "description": "Просматривайте видео, оставаясь в потоке",
       "icon": {
          "raster_icon": {
             "light_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_youtube.png/1.4.14/asset"
@@ -1626,7 +1626,7 @@
          "show_domain_in_header": true
       },
       "default_locale": "en",
-      "description": "Chat with people via Skype",
+      "description": "Чат с другими людьми через Skype",
       "disabled|auth:aad": true,
       "icon": {
          "raster_icon": {
@@ -1725,7 +1725,7 @@
          "resize_disabled": true
       },
       "default_locale": "en",
-      "description": "Easily browse and find movies that fit your mood",
+      "description": "Найдите фильмы под ваше настроение",
       "flights": [ "msEdgeHubAppTheater" ],
       "icon": {
          "raster_icon": {
@@ -1775,7 +1775,7 @@
       "version": "1.0.5"
    }, {
       "default_locale": "en",
-      "description": "Earn valuable Microsoft Rewards just by searching, shopping, and gaming with Microsoft",
+      "description": "Получайте ценные баллы Microsoft Rewards за простой поиск, покупки и игры с Майкрософт",
       "flights": [ "msEdgeRewardsInSidebar" ],
       "icon": {
          "raster_icon": {

@@ -1,0 +1,10 @@
+2023/06/16-01:03:41.189 53a Creating DB /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_docs.audiorelay.net_0.indexeddb.leveldb since it was missing.
+2023/06/16-01:03:41.194 53a Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_docs.audiorelay.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/16-01:03:41.583 54c Level-0 table #5: started
+2023/06/16-01:03:41.587 54c Level-0 table #5: 1826 bytes OK
+2023/06/16-01:03:41.593 54c Delete type=0 #3
+2023/06/16-01:03:41.593 53e Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/06/16-01:05:39.198 54c Level-0 table #7: started
+2023/06/16-01:05:39.200 54c Level-0 table #7: 33690 bytes OK
+2023/06/16-01:05:39.206 54c Delete type=0 #4
+2023/06/16-01:05:39.206 53a Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
