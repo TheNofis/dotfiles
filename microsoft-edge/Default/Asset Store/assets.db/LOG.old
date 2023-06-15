@@ -1,13 +1,3 @@
-2023/06/16-02:51:05.892 3 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/Asset Store/assets.db/MANIFEST-000001
-2023/06/16-02:51:05.893 3 Recovering log #10
-2023/06/16-02:51:05.897 3 Level-0 table #12: started
-2023/06/16-02:51:05.903 3 Level-0 table #12: 238547 bytes OK
-2023/06/16-02:51:05.909 3 Delete type=0 #10
-2023/06/16-02:51:05.910 5 Compacting 4@0 + 0@1 files
-2023/06/16-02:51:05.930 5 Generated table #14@0: 26 keys, 1064451 bytes
-2023/06/16-02:51:05.930 5 Compacted 4@0 + 0@1 files => 1064451 bytes
-2023/06/16-02:51:05.933 5 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/06/16-02:51:05.933 5 Delete type=2 #3
-2023/06/16-02:51:05.933 5 Delete type=2 #6
-2023/06/16-02:51:05.933 5 Delete type=2 #9
-2023/06/16-02:51:05.933 5 Delete type=2 #12
+2023/06/16-03:01:03.146 3 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/Asset Store/assets.db/MANIFEST-000001
+2023/06/16-03:01:03.146 3 Recovering log #13
+2023/06/16-03:01:03.147 3 Reusing old log /home/thenofis/.config/microsoft-edge/Default/Asset Store/assets.db/000013.log 
