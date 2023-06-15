@@ -1,3 +1,6 @@
 2023/06/16-03:01:01.147 3 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/Session Storage/MANIFEST-000001
 2023/06/16-03:01:01.148 3 Recovering log #86
 2023/06/16-03:01:01.150 3 Reusing old log /home/thenofis/.config/microsoft-edge/Default/Session Storage/000086.log 
+2023/06/16-03:16:53.970 4 Level-0 table #91: started
+2023/06/16-03:16:53.974 4 Level-0 table #91: 29356 bytes OK
+2023/06/16-03:16:53.979 4 Delete type=0 #86

@@ -1,3 +1,12 @@
-2023/06/16-01:28:58.477 710 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/06/16-01:28:58.477 710 Recovering log #178
-2023/06/16-01:28:58.496 710 Reusing old log /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000178.log 
+2023/06/16-03:13:03.547 5c9 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/16-03:13:03.548 5c9 Recovering log #178
+2023/06/16-03:13:03.566 5c9 Reusing old log /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000178.log 
+2023/06/16-03:13:05.581 5ca Level-0 table #184: started
+2023/06/16-03:13:05.593 5ca Level-0 table #184: 1862307 bytes OK
+2023/06/16-03:13:05.597 5ca Delete type=0 #178
+2023/06/16-03:15:31.080 5c9 Compacting 1@1 + 1@2 files
+2023/06/16-03:15:31.099 5c9 Generated table #185@1: 465 keys, 41225 bytes
+2023/06/16-03:15:31.099 5c9 Compacted 1@1 + 1@2 files => 41225 bytes
+2023/06/16-03:15:31.103 5c9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/16-03:15:31.103 5c9 Delete type=2 #181
+2023/06/16-03:15:31.103 5c9 Delete type=2 #184

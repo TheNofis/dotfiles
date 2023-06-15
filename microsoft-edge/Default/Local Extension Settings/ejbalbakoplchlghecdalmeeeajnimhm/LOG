@@ -7,3 +7,18 @@
 2023/06/16-03:04:38.053 5ca Level-0 table #331: started
 2023/06/16-03:04:38.071 5ca Level-0 table #331: 2471468 bytes OK
 2023/06/16-03:04:38.074 5ca Delete type=0 #328
+2023/06/16-03:08:59.605 5ca Level-0 table #333: started
+2023/06/16-03:08:59.624 5ca Level-0 table #333: 2472060 bytes OK
+2023/06/16-03:08:59.628 5ca Delete type=0 #330
+2023/06/16-03:12:36.573 5ca Level-0 table #335: started
+2023/06/16-03:12:36.592 5ca Level-0 table #335: 2472451 bytes OK
+2023/06/16-03:12:36.596 5ca Delete type=0 #332
+2023/06/16-03:12:36.596 5ca Compacting 4@0 + 1@1 files
+2023/06/16-03:12:36.617 5ca Generated table #336@0: 1 keys, 618212 bytes
+2023/06/16-03:12:36.617 5ca Compacted 4@0 + 1@1 files => 618212 bytes
+2023/06/16-03:12:36.621 5ca compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/16-03:12:36.621 5ca Delete type=2 #326
+2023/06/16-03:12:36.621 5ca Delete type=2 #329
+2023/06/16-03:12:36.621 5ca Delete type=2 #331
+2023/06/16-03:12:36.621 5ca Delete type=2 #333
+2023/06/16-03:12:36.621 5ca Delete type=2 #335
