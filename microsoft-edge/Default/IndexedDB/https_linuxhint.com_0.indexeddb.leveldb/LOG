@@ -1,0 +1,7 @@
+2023/06/15-19:24:47.592 867 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/15-19:24:47.592 867 Recovering log #3
+2023/06/15-19:24:47.592 867 Reusing old log /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/000003.log 
+2023/06/15-19:24:51.680 868 Level-0 table #5: started
+2023/06/15-19:24:51.683 868 Level-0 table #5: 8737 bytes OK
+2023/06/15-19:24:51.687 868 Delete type=0 #3
+2023/06/15-19:24:51.687 868 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

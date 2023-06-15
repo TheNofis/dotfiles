@@ -1,0 +1,24 @@
+2023/06/15-22:07:10.972 de8 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/Local Extension Settings/ejbalbakoplchlghecdalmeeeajnimhm/MANIFEST-000001
+2023/06/15-22:07:10.972 de8 Recovering log #243
+2023/06/15-22:07:10.978 de8 Reusing old log /home/thenofis/.config/microsoft-edge/Default/Local Extension Settings/ejbalbakoplchlghecdalmeeeajnimhm/000243.log 
+2023/06/15-22:07:19.950 de9 Level-0 table #247: started
+2023/06/15-22:07:19.970 de9 Level-0 table #247: 2472980 bytes OK
+2023/06/15-22:07:19.973 de9 Delete type=0 #243
+2023/06/15-22:13:17.596 de8 Level-0 table #249: started
+2023/06/15-22:13:17.614 de8 Level-0 table #249: 2470290 bytes OK
+2023/06/15-22:13:17.618 de8 Delete type=0 #246
+2023/06/15-22:13:17.618 de8 Compacting 4@0 + 1@1 files
+2023/06/15-22:13:17.634 de8 Generated table #250@0: 1 keys, 617747 bytes
+2023/06/15-22:13:17.634 de8 Compacted 4@0 + 1@1 files => 617747 bytes
+2023/06/15-22:13:17.637 de8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/15-22:13:17.637 de8 Delete type=2 #240
+2023/06/15-22:13:17.637 de8 Delete type=2 #242
+2023/06/15-22:13:17.637 de8 Delete type=2 #244
+2023/06/15-22:13:17.637 de8 Delete type=2 #247
+2023/06/15-22:13:17.637 de8 Delete type=2 #249
+2023/06/15-22:19:20.826 de9 Level-0 table #252: started
+2023/06/15-22:19:20.844 de9 Level-0 table #252: 2471337 bytes OK
+2023/06/15-22:19:20.847 de9 Delete type=0 #248
+2023/06/15-22:22:55.262 de8 Level-0 table #254: started
+2023/06/15-22:22:55.279 de8 Level-0 table #254: 2472279 bytes OK
+2023/06/15-22:22:55.282 de8 Delete type=0 #251

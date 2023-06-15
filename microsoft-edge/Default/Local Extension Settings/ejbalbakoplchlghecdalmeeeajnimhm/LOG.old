@@ -1,0 +1,51 @@
+2023/06/15-19:42:48.598 1d8d4 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/Local Extension Settings/ejbalbakoplchlghecdalmeeeajnimhm/MANIFEST-000001
+2023/06/15-19:42:48.598 1d8d4 Recovering log #219
+2023/06/15-19:42:48.598 1d8d4 Reusing old log /home/thenofis/.config/microsoft-edge/Default/Local Extension Settings/ejbalbakoplchlghecdalmeeeajnimhm/000219.log 
+2023/06/15-19:47:25.464 1d8d5 Level-0 table #224: started
+2023/06/15-19:47:25.482 1d8d5 Level-0 table #224: 2468654 bytes OK
+2023/06/15-19:47:25.486 1d8d5 Delete type=0 #219
+2023/06/15-19:47:55.922 1d8d7 Level-0 table #226: started
+2023/06/15-19:47:55.942 1d8d7 Level-0 table #226: 2469453 bytes OK
+2023/06/15-19:47:55.946 1d8d7 Delete type=0 #223
+2023/06/15-20:04:32.139 1d8d5 Level-0 table #228: started
+2023/06/15-20:04:32.157 1d8d5 Level-0 table #228: 2469838 bytes OK
+2023/06/15-20:04:32.160 1d8d5 Delete type=0 #225
+2023/06/15-20:14:06.993 1d8d5 Level-0 table #230: started
+2023/06/15-20:14:07.012 1d8d5 Level-0 table #230: 2470597 bytes OK
+2023/06/15-20:14:07.015 1d8d5 Delete type=0 #227
+2023/06/15-20:14:07.016 1d8d5 Compacting 4@0 + 1@1 files
+2023/06/15-20:14:07.035 1d8d5 Generated table #231@0: 1 keys, 617793 bytes
+2023/06/15-20:14:07.035 1d8d5 Compacted 4@0 + 1@1 files => 617793 bytes
+2023/06/15-20:14:07.038 1d8d5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/15-20:14:07.038 1d8d5 Delete type=2 #221
+2023/06/15-20:14:07.038 1d8d5 Delete type=2 #224
+2023/06/15-20:14:07.038 1d8d5 Delete type=2 #226
+2023/06/15-20:14:07.038 1d8d5 Delete type=2 #228
+2023/06/15-20:14:07.038 1d8d5 Delete type=2 #230
+2023/06/15-20:18:19.102 1d8d5 Level-0 table #233: started
+2023/06/15-20:18:19.124 1d8d5 Level-0 table #233: 2471764 bytes OK
+2023/06/15-20:18:19.129 1d8d5 Delete type=0 #229
+2023/06/15-21:14:18.115 1d8d5 Level-0 table #235: started
+2023/06/15-21:14:18.134 1d8d5 Level-0 table #235: 2472687 bytes OK
+2023/06/15-21:14:18.137 1d8d5 Delete type=0 #232
+2023/06/15-21:23:45.564 1d8d5 Level-0 table #237: started
+2023/06/15-21:23:45.582 1d8d5 Level-0 table #237: 2476615 bytes OK
+2023/06/15-21:23:45.586 1d8d5 Delete type=0 #234
+2023/06/15-21:29:04.234 1d8d5 Level-0 table #239: started
+2023/06/15-21:29:04.255 1d8d5 Level-0 table #239: 2486360 bytes OK
+2023/06/15-21:29:04.258 1d8d5 Delete type=0 #236
+2023/06/15-21:29:04.259 1d8d5 Compacting 4@0 + 1@1 files
+2023/06/15-21:29:04.278 1d8d5 Generated table #240@0: 1 keys, 621708 bytes
+2023/06/15-21:29:04.278 1d8d5 Compacted 4@0 + 1@1 files => 621708 bytes
+2023/06/15-21:29:04.282 1d8d5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/15-21:29:04.282 1d8d5 Delete type=2 #231
+2023/06/15-21:29:04.282 1d8d5 Delete type=2 #233
+2023/06/15-21:29:04.282 1d8d5 Delete type=2 #235
+2023/06/15-21:29:04.282 1d8d5 Delete type=2 #237
+2023/06/15-21:29:04.282 1d8d5 Delete type=2 #239
+2023/06/15-21:57:40.103 1d8d5 Level-0 table #242: started
+2023/06/15-21:57:40.122 1d8d5 Level-0 table #242: 2477729 bytes OK
+2023/06/15-21:57:40.125 1d8d5 Delete type=0 #238
+2023/06/15-22:00:12.923 1d8d5 Level-0 table #244: started
+2023/06/15-22:00:12.941 1d8d5 Level-0 table #244: 2476480 bytes OK
+2023/06/15-22:00:12.944 1d8d5 Delete type=0 #241

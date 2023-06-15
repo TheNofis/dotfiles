@@ -1,0 +1,45 @@
+2023/06/15-22:07:10.110 3 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/Local Storage/leveldb/MANIFEST-000001
+2023/06/15-22:07:10.127 3 Recovering log #411
+2023/06/15-22:07:10.128 3 Reusing old log /home/thenofis/.config/microsoft-edge/Default/Local Storage/leveldb/000411.log 
+2023/06/15-22:07:23.666 4 Level-0 table #415: started
+2023/06/15-22:07:23.675 4 Level-0 table #415: 261890 bytes OK
+2023/06/15-22:07:23.682 4 Delete type=0 #411
+2023/06/15-22:13:42.027 3 Level-0 table #417: started
+2023/06/15-22:13:42.035 3 Level-0 table #417: 157972 bytes OK
+2023/06/15-22:13:42.039 3 Delete type=0 #414
+2023/06/15-22:13:42.039 3 Compacting 4@0 + 1@1 files
+2023/06/15-22:13:42.065 3 Generated table #418@0: 1045 keys, 1219064 bytes
+2023/06/15-22:13:42.065 3 Compacted 4@0 + 1@1 files => 1219064 bytes
+2023/06/15-22:13:42.068 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/15-22:13:42.069 3 Delete type=2 #408
+2023/06/15-22:13:42.069 3 Delete type=2 #410
+2023/06/15-22:13:42.069 3 Delete type=2 #412
+2023/06/15-22:13:42.069 3 Delete type=2 #415
+2023/06/15-22:13:42.069 3 Delete type=2 #417
+2023/06/15-22:15:18.337 3 Level-0 table #420: started
+2023/06/15-22:15:18.340 3 Level-0 table #420: 142178 bytes OK
+2023/06/15-22:15:18.345 3 Delete type=0 #416
+2023/06/15-22:17:19.075 4 Level-0 table #422: started
+2023/06/15-22:17:19.083 4 Level-0 table #422: 137171 bytes OK
+2023/06/15-22:17:19.088 4 Delete type=0 #419
+2023/06/15-22:20:05.202 4 Level-0 table #424: started
+2023/06/15-22:20:05.207 4 Level-0 table #424: 28354 bytes OK
+2023/06/15-22:20:05.214 4 Delete type=0 #421
+2023/06/15-22:21:19.082 4 Level-0 table #426: started
+2023/06/15-22:21:19.089 4 Level-0 table #426: 135734 bytes OK
+2023/06/15-22:21:19.096 4 Delete type=0 #423
+2023/06/15-22:21:19.097 4 Compacting 4@0 + 1@1 files
+2023/06/15-22:21:19.124 4 Generated table #427@0: 1072 keys, 1217606 bytes
+2023/06/15-22:21:19.124 4 Compacted 4@0 + 1@1 files => 1217606 bytes
+2023/06/15-22:21:19.127 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/15-22:21:19.128 4 Delete type=2 #418
+2023/06/15-22:21:19.128 4 Delete type=2 #420
+2023/06/15-22:21:19.128 4 Delete type=2 #422
+2023/06/15-22:21:19.128 4 Delete type=2 #424
+2023/06/15-22:21:19.128 4 Delete type=2 #426
+2023/06/15-22:24:18.338 4 Level-0 table #429: started
+2023/06/15-22:24:18.346 4 Level-0 table #429: 139589 bytes OK
+2023/06/15-22:24:18.351 4 Delete type=0 #425
+2023/06/15-22:26:18.338 4 Level-0 table #431: started
+2023/06/15-22:26:18.345 4 Level-0 table #431: 127278 bytes OK
+2023/06/15-22:26:18.351 4 Delete type=0 #428

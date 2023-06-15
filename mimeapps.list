@@ -1,0 +1,11 @@
+[Added Associations]
+text/x-matlab=org.xfce.mousepad.desktop;
+application/x-ms-dos-executable=wine.desktop;
+
+[Default Applications]
+application/x-ms-dos-executable;application/x-wine-extension-msp;application/x-msi;application/x-msdos-program=PortProton.desktop
+text/html=microsoft-edge.desktop
+x-scheme-handler/http=microsoft-edge.desktop
+x-scheme-handler/https=microsoft-edge.desktop
+x-scheme-handler/about=microsoft-edge.desktop
+x-scheme-handler/unknown=microsoft-edge.desktop

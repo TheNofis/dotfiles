@@ -1,0 +1,6 @@
+2023/06/15-18:47:08.972 867 Creating DB /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_dev.epicgames.com_0.indexeddb.leveldb since it was missing.
+2023/06/15-18:47:08.977 867 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_dev.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/15-18:47:41.532 868 Level-0 table #5: started
+2023/06/15-18:47:41.534 868 Level-0 table #5: 2683 bytes OK
+2023/06/15-18:47:41.537 868 Delete type=0 #3
+2023/06/15-18:47:41.537 868 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

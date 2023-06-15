@@ -1,0 +1,30 @@
+2023/06/15-15:37:15.494 544 Reusing MANIFEST /home/thenofis/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/06/15-15:37:15.502 544 Recovering log #20
+2023/06/15-15:37:15.502 544 Reusing old log /home/thenofis/.config/discord/Local Storage/leveldb/000020.log 
+2023/06/15-15:48:49.025 528 Level-0 table #24: started
+2023/06/15-15:48:49.027 528 Level-0 table #24: 25742 bytes OK
+2023/06/15-15:48:49.031 528 Delete type=0 #20
+2023/06/15-18:05:11.028 bb9f Level-0 table #26: started
+2023/06/15-18:05:11.058 bb9f Level-0 table #26: 16855 bytes OK
+2023/06/15-18:05:11.114 bb9f Delete type=0 #23
+2023/06/15-18:14:31.442 eb66 Level-0 table #28: started
+2023/06/15-18:14:31.444 eb66 Level-0 table #28: 14488 bytes OK
+2023/06/15-18:14:31.447 eb66 Delete type=0 #25
+2023/06/15-18:14:31.447 eb66 Compacting 4@0 + 1@1 files
+2023/06/15-18:14:31.457 eb66 Generated table #29@0: 22 keys, 1684786 bytes
+2023/06/15-18:14:31.457 eb66 Compacted 4@0 + 1@1 files => 1684786 bytes
+2023/06/15-18:14:31.460 eb66 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/15-18:14:31.460 eb66 Delete type=2 #19
+2023/06/15-18:14:31.460 eb66 Delete type=2 #21
+2023/06/15-18:14:31.460 eb66 Delete type=2 #24
+2023/06/15-18:14:31.460 eb66 Delete type=2 #26
+2023/06/15-18:14:31.460 eb66 Delete type=2 #28
+2023/06/15-18:39:17.029 eb66 Level-0 table #31: started
+2023/06/15-18:39:17.033 eb66 Level-0 table #31: 14585 bytes OK
+2023/06/15-18:39:17.036 eb66 Delete type=0 #27
+2023/06/15-18:42:08.216 eb66 Level-0 table #33: started
+2023/06/15-18:42:08.218 eb66 Level-0 table #33: 14904 bytes OK
+2023/06/15-18:42:08.222 eb66 Delete type=0 #30
+2023/06/15-20:05:30.229 eb66 Level-0 table #35: started
+2023/06/15-20:05:30.232 eb66 Level-0 table #35: 14821 bytes OK
+2023/06/15-20:05:30.236 eb66 Delete type=0 #32

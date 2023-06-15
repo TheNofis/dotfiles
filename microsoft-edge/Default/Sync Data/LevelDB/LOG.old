@@ -1,0 +1,39 @@
+2023/06/15-19:42:47.920 1d8e3 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/06/15-19:42:47.920 1d8e3 Recovering log #123
+2023/06/15-19:42:47.921 1d8e3 Reusing old log /home/thenofis/.config/microsoft-edge/Default/Sync Data/LevelDB/000123.log 
+2023/06/15-19:47:43.341 1d8d5 Level-0 table #127: started
+2023/06/15-19:47:43.343 1d8d5 Level-0 table #127: 151747 bytes OK
+2023/06/15-19:47:43.346 1d8d5 Delete type=0 #123
+2023/06/15-20:12:12.258 1d8d5 Level-0 table #129: started
+2023/06/15-20:12:12.264 1d8d5 Level-0 table #129: 166759 bytes OK
+2023/06/15-20:12:12.268 1d8d5 Delete type=0 #126
+2023/06/15-20:12:12.269 1d8d5 Compacting 4@0 + 1@1 files
+2023/06/15-20:12:12.275 1d8d5 Generated table #130@0: 123 keys, 17278 bytes
+2023/06/15-20:12:12.275 1d8d5 Compacted 4@0 + 1@1 files => 17278 bytes
+2023/06/15-20:12:12.279 1d8d5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/15-20:12:12.279 1d8d5 Delete type=2 #120
+2023/06/15-20:12:12.279 1d8d5 Delete type=2 #122
+2023/06/15-20:12:12.279 1d8d5 Delete type=2 #124
+2023/06/15-20:12:12.279 1d8d5 Delete type=2 #127
+2023/06/15-20:12:12.279 1d8d5 Delete type=2 #129
+2023/06/15-20:18:18.385 1d8d5 Level-0 table #132: started
+2023/06/15-20:18:18.388 1d8d5 Level-0 table #132: 164018 bytes OK
+2023/06/15-20:18:18.394 1d8d5 Delete type=0 #128
+2023/06/15-20:33:34.067 1d8d5 Level-0 table #134: started
+2023/06/15-20:33:34.072 1d8d5 Level-0 table #134: 163656 bytes OK
+2023/06/15-20:33:34.077 1d8d5 Delete type=0 #131
+2023/06/15-21:14:23.930 1d8d5 Level-0 table #136: started
+2023/06/15-21:14:23.932 1d8d5 Level-0 table #136: 145446 bytes OK
+2023/06/15-21:14:23.936 1d8d5 Delete type=0 #133
+2023/06/15-21:58:30.895 1d8d5 Level-0 table #138: started
+2023/06/15-21:58:30.900 1d8d5 Level-0 table #138: 144609 bytes OK
+2023/06/15-21:58:30.903 1d8d5 Delete type=0 #135
+2023/06/15-21:58:30.903 1d8d5 Compacting 4@0 + 1@1 files
+2023/06/15-21:58:30.907 1d8d5 Generated table #139@0: 123 keys, 9853 bytes
+2023/06/15-21:58:30.907 1d8d5 Compacted 4@0 + 1@1 files => 9853 bytes
+2023/06/15-21:58:30.911 1d8d5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/15-21:58:30.911 1d8d5 Delete type=2 #130
+2023/06/15-21:58:30.911 1d8d5 Delete type=2 #132
+2023/06/15-21:58:30.911 1d8d5 Delete type=2 #134
+2023/06/15-21:58:30.911 1d8d5 Delete type=2 #136
+2023/06/15-21:58:30.911 1d8d5 Delete type=2 #138
