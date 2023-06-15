@@ -1,6 +1,0 @@
-2023/06/15-01:21:32.401 4f6 Creating DB /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_translate.yandex.ru_0.indexeddb.leveldb since it was missing.
-2023/06/15-01:21:32.405 4f6 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_translate.yandex.ru_0.indexeddb.leveldb/MANIFEST-000001
-2023/06/15-01:46:37.403 4f6 Level-0 table #5: started
-2023/06/15-01:46:37.406 4f6 Level-0 table #5: 2542 bytes OK
-2023/06/15-01:46:37.423 4f6 Delete type=0 #3
-2023/06/15-01:46:37.424 4f6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
