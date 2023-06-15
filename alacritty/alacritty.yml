@@ -1,14 +1,18 @@
-# Программма при запуске
+# Копировать - Вставить
+key_bindings:
+  - { key: V, mods: Control|Shift, action: Paste }
+  - { key: C, mods: Control|Shift, action: Copy }
+
+#Программма при запуске
 shell:
   program: /bin/bash
   args:
     - -c
-    - neofetch && exec zsh
+    - neofetch | lolcat&& exec zsh
 
 # Задаем прозрачность
 window:
   opacity: 0.1
-
 # Подключаем шрифты
 font:
   normal:

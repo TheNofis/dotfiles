@@ -1,12 +1,24 @@
-2023/06/16-03:13:03.547 5c9 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/06/16-03:13:03.548 5c9 Recovering log #178
-2023/06/16-03:13:03.566 5c9 Reusing old log /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000178.log 
-2023/06/16-03:13:05.581 5ca Level-0 table #184: started
-2023/06/16-03:13:05.593 5ca Level-0 table #184: 1862307 bytes OK
-2023/06/16-03:13:05.597 5ca Delete type=0 #178
-2023/06/16-03:15:31.080 5c9 Compacting 1@1 + 1@2 files
-2023/06/16-03:15:31.099 5c9 Generated table #185@1: 465 keys, 41225 bytes
-2023/06/16-03:15:31.099 5c9 Compacted 1@1 + 1@2 files => 41225 bytes
-2023/06/16-03:15:31.103 5c9 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/06/16-03:15:31.103 5c9 Delete type=2 #181
-2023/06/16-03:15:31.103 5c9 Delete type=2 #184
+2023/06/16-05:48:58.113 aced Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/16-05:48:58.113 aced Recovering log #224
+2023/06/16-05:48:58.114 aced Reusing old log /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000224.log 
+2023/06/16-05:48:58.114 aced Delete type=2 #223
+2023/06/16-05:48:58.114 aced Delete type=2 #225
+2023/06/16-05:49:00.156 acf0 Level-0 table #229: started
+2023/06/16-05:49:00.160 acf0 Level-0 table #229: 84541 bytes OK
+2023/06/16-05:49:00.167 acf0 Delete type=0 #224
+2023/06/16-05:49:00.167 aced Manual compaction at level-0 from '\x00G\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00H\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/06/16-05:49:02.254 acee Compacting 1@1 + 1@2 files
+2023/06/16-05:49:02.256 acee Generated table #230@1: 358 keys, 41868 bytes
+2023/06/16-05:49:02.256 acee Compacted 1@1 + 1@2 files => 41868 bytes
+2023/06/16-05:49:02.260 acee compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/16-05:49:02.260 acee Delete type=2 #226
+2023/06/16-05:49:02.260 acee Delete type=2 #229
+2023/06/16-06:12:27.147 aced Level-0 table #232: started
+2023/06/16-06:12:27.174 aced Level-0 table #232: 1332041 bytes OK
+2023/06/16-06:12:27.178 aced Delete type=0 #228
+2023/06/16-06:19:48.068 acf0 Compacting 1@1 + 1@2 files
+2023/06/16-06:19:48.084 acf0 Generated table #233@1: 402 keys, 40638 bytes
+2023/06/16-06:19:48.084 acf0 Compacted 1@1 + 1@2 files => 40638 bytes
+2023/06/16-06:19:48.090 acf0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/16-06:19:48.091 acf0 Delete type=2 #230
+2023/06/16-06:19:48.091 acf0 Delete type=2 #232

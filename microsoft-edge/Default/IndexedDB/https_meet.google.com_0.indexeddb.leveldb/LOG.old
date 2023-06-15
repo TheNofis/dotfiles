@@ -1,0 +1,7 @@
+2023/06/16-03:51:31.537 5ca Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/16-03:51:31.537 5ca Recovering log #3
+2023/06/16-03:51:31.537 5ca Reusing old log /home/thenofis/.config/microsoft-edge/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000003.log 
+2023/06/16-03:52:35.063 5ca Level-0 table #5: started
+2023/06/16-03:52:35.066 5ca Level-0 table #5: 5469 bytes OK
+2023/06/16-03:52:35.070 5ca Delete type=0 #3
+2023/06/16-03:52:35.070 5ca Manual compaction at level-0 from (begin) .. (end); will stop at (end)

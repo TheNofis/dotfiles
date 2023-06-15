@@ -1,9 +1,26 @@
-2023/06/16-03:01:00.750 3 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/Local Storage/leveldb/MANIFEST-000001
-2023/06/16-03:01:00.765 3 Recovering log #501
-2023/06/16-03:01:00.769 3 Reusing old log /home/thenofis/.config/microsoft-edge/Default/Local Storage/leveldb/000501.log 
-2023/06/16-03:01:19.120 4 Level-0 table #506: started
-2023/06/16-03:01:19.132 4 Level-0 table #506: 514187 bytes OK
-2023/06/16-03:01:19.135 4 Delete type=0 #501
-2023/06/16-03:13:56.136 4 Level-0 table #508: started
-2023/06/16-03:13:56.138 4 Level-0 table #508: 26211 bytes OK
-2023/06/16-03:13:56.143 4 Delete type=0 #505
+2023/06/16-05:48:10.142 3 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/Local Storage/leveldb/MANIFEST-000001
+2023/06/16-05:48:10.143 3 Recovering log #551
+2023/06/16-05:48:10.143 3 Reusing old log /home/thenofis/.config/microsoft-edge/Default/Local Storage/leveldb/000551.log 
+2023/06/16-05:49:58.080 5 Level-0 table #555: started
+2023/06/16-05:49:58.088 5 Level-0 table #555: 141958 bytes OK
+2023/06/16-05:49:58.095 5 Delete type=0 #551
+2023/06/16-05:51:47.864 5 Level-0 table #557: started
+2023/06/16-05:51:47.872 5 Level-0 table #557: 133720 bytes OK
+2023/06/16-05:51:47.879 5 Delete type=0 #554
+2023/06/16-05:51:47.880 5 Compacting 4@0 + 2@1 files
+2023/06/16-05:51:47.906 5 Generated table #558@0: 521 keys, 2215080 bytes
+2023/06/16-05:51:47.920 5 Generated table #559@0: 1052 keys, 1240393 bytes
+2023/06/16-05:51:47.920 5 Compacted 4@0 + 2@1 files => 3455473 bytes
+2023/06/16-05:51:47.925 5 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/06/16-05:51:47.926 5 Delete type=2 #547
+2023/06/16-05:51:47.926 5 Delete type=2 #548
+2023/06/16-05:51:47.926 5 Delete type=2 #550
+2023/06/16-05:51:47.926 5 Delete type=2 #552
+2023/06/16-05:51:47.926 5 Delete type=2 #555
+2023/06/16-05:51:47.926 5 Delete type=2 #557
+2023/06/16-05:58:12.711 5 Level-0 table #561: started
+2023/06/16-05:58:12.720 5 Level-0 table #561: 136610 bytes OK
+2023/06/16-05:58:12.726 5 Delete type=0 #556
+2023/06/16-06:06:55.327 5 Level-0 table #563: started
+2023/06/16-06:06:55.331 5 Level-0 table #563: 35468 bytes OK
+2023/06/16-06:06:55.337 5 Delete type=0 #560

@@ -1,6 +1,18 @@
-2023/06/16-02:41:03.353 734 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/Sync Data/LevelDB/MANIFEST-000001
-2023/06/16-02:41:03.379 734 Recovering log #177
-2023/06/16-02:41:03.388 734 Reusing old log /home/thenofis/.config/microsoft-edge/Default/Sync Data/LevelDB/000177.log 
-2023/06/16-02:41:10.474 70b Level-0 table #182: started
-2023/06/16-02:41:10.477 70b Level-0 table #182: 173257 bytes OK
-2023/06/16-02:41:10.481 70b Delete type=0 #177
+2023/06/16-05:30:34.904 8013 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/06/16-05:30:34.904 8013 Recovering log #223
+2023/06/16-05:30:34.904 8013 Reusing old log /home/thenofis/.config/microsoft-edge/Default/Sync Data/LevelDB/000223.log 
+2023/06/16-05:37:40.441 8013 Level-0 table #227: started
+2023/06/16-05:37:40.448 8013 Level-0 table #227: 137258 bytes OK
+2023/06/16-05:37:40.453 8013 Delete type=0 #223
+2023/06/16-05:48:05.879 8013 Level-0 table #229: started
+2023/06/16-05:48:05.884 8013 Level-0 table #229: 133580 bytes OK
+2023/06/16-05:48:05.888 8013 Delete type=0 #226
+2023/06/16-05:48:05.889 8013 Compacting 4@0 + 1@1 files
+2023/06/16-05:48:05.896 8013 Generated table #230@0: 145 keys, 11412 bytes
+2023/06/16-05:48:05.896 8013 Compacted 4@0 + 1@1 files => 11412 bytes
+2023/06/16-05:48:05.899 8013 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/16-05:48:05.899 8013 Delete type=2 #219
+2023/06/16-05:48:05.899 8013 Delete type=2 #222
+2023/06/16-05:48:05.899 8013 Delete type=2 #224
+2023/06/16-05:48:05.899 8013 Delete type=2 #227
+2023/06/16-05:48:05.899 8013 Delete type=2 #229

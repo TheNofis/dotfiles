@@ -1,21 +1,23 @@
-2023/06/16-02:41:03.380 3 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/Local Storage/leveldb/MANIFEST-000001
-2023/06/16-02:41:03.390 3 Recovering log #494
-2023/06/16-02:41:03.394 3 Reusing old log /home/thenofis/.config/microsoft-edge/Default/Local Storage/leveldb/000494.log 
-2023/06/16-02:41:20.073 4 Level-0 table #498: started
-2023/06/16-02:41:20.076 4 Level-0 table #498: 138776 bytes OK
-2023/06/16-02:41:20.084 4 Delete type=0 #494
-2023/06/16-02:41:32.009 4 Level-0 table #500: started
-2023/06/16-02:41:32.018 4 Level-0 table #500: 131832 bytes OK
-2023/06/16-02:41:32.023 4 Delete type=0 #497
-2023/06/16-02:44:07.209 4 Level-0 table #502: started
-2023/06/16-02:44:07.218 4 Level-0 table #502: 135417 bytes OK
-2023/06/16-02:44:07.225 4 Delete type=0 #499
-2023/06/16-02:44:07.226 4 Compacting 4@0 + 1@1 files
-2023/06/16-02:44:07.257 4 Generated table #503@0: 1332 keys, 1589845 bytes
-2023/06/16-02:44:07.257 4 Compacted 4@0 + 1@1 files => 1589845 bytes
-2023/06/16-02:44:07.261 4 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/06/16-02:44:07.261 4 Delete type=2 #493
-2023/06/16-02:44:07.262 4 Delete type=2 #495
-2023/06/16-02:44:07.262 4 Delete type=2 #498
-2023/06/16-02:44:07.262 4 Delete type=2 #500
-2023/06/16-02:44:07.262 4 Delete type=2 #502
+2023/06/16-05:30:34.901 3 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/Local Storage/leveldb/MANIFEST-000001
+2023/06/16-05:30:34.901 3 Recovering log #542
+2023/06/16-05:30:34.901 3 Reusing old log /home/thenofis/.config/microsoft-edge/Default/Local Storage/leveldb/000542.log 
+2023/06/16-05:31:06.263 4 Level-0 table #546: started
+2023/06/16-05:31:06.271 4 Level-0 table #546: 138579 bytes OK
+2023/06/16-05:31:06.275 4 Delete type=0 #542
+2023/06/16-05:31:06.276 4 Compacting 4@0 + 2@1 files
+2023/06/16-05:31:06.296 4 Generated table #547@0: 520 keys, 2216157 bytes
+2023/06/16-05:31:06.343 4 Generated table #548@0: 1039 keys, 1239855 bytes
+2023/06/16-05:31:06.343 4 Compacted 4@0 + 2@1 files => 3456012 bytes
+2023/06/16-05:31:06.346 4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/06/16-05:31:06.346 4 Delete type=2 #536
+2023/06/16-05:31:06.346 4 Delete type=2 #537
+2023/06/16-05:31:06.346 4 Delete type=2 #539
+2023/06/16-05:31:06.346 4 Delete type=2 #541
+2023/06/16-05:31:06.346 4 Delete type=2 #543
+2023/06/16-05:31:06.346 4 Delete type=2 #546
+2023/06/16-05:43:49.814 3 Level-0 table #550: started
+2023/06/16-05:43:49.817 3 Level-0 table #550: 20187 bytes OK
+2023/06/16-05:43:49.821 3 Delete type=0 #545
+2023/06/16-05:44:20.287 3 Level-0 table #552: started
+2023/06/16-05:44:20.290 3 Level-0 table #552: 46494 bytes OK
+2023/06/16-05:44:20.295 3 Delete type=0 #549

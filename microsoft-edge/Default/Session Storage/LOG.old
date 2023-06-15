@@ -1,15 +1,6 @@
-2023/06/16-02:41:03.862 3 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/Session Storage/MANIFEST-000001
-2023/06/16-02:41:03.865 3 Recovering log #83
-2023/06/16-02:41:03.866 3 Reusing old log /home/thenofis/.config/microsoft-edge/Default/Session Storage/000083.log 
-2023/06/16-02:41:04.904 4 Level-0 table #87: started
-2023/06/16-02:41:04.905 4 Level-0 table #87: 26089 bytes OK
-2023/06/16-02:41:04.909 4 Delete type=0 #83
-2023/06/16-02:41:04.909 4 Compacting 4@0 + 1@1 files
-2023/06/16-02:41:04.912 4 Generated table #88@0: 3008 keys, 80394 bytes
-2023/06/16-02:41:04.912 4 Compacted 4@0 + 1@1 files => 80394 bytes
-2023/06/16-02:41:04.916 4 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/06/16-02:41:04.916 4 Delete type=2 #76
-2023/06/16-02:41:04.916 4 Delete type=2 #79
-2023/06/16-02:41:04.916 4 Delete type=2 #81
-2023/06/16-02:41:04.916 4 Delete type=2 #84
-2023/06/16-02:41:04.916 4 Delete type=2 #87
+2023/06/16-05:30:35.154 3 Reusing MANIFEST /home/thenofis/.config/microsoft-edge/Default/Session Storage/MANIFEST-000001
+2023/06/16-05:30:35.155 3 Recovering log #101
+2023/06/16-05:30:35.155 3 Reusing old log /home/thenofis/.config/microsoft-edge/Default/Session Storage/000101.log 
+2023/06/16-05:30:36.540 4 Level-0 table #105: started
+2023/06/16-05:30:36.569 4 Level-0 table #105: 25878 bytes OK
+2023/06/16-05:30:36.655 4 Delete type=0 #101

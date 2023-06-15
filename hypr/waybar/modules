@@ -29,7 +29,8 @@
  //"interval": 5,
  //"format": " {usage}%",
    "interval": 1,
-   "format": "{icon0}{icon1}{icon2}{icon3} {usage:>2}% ",
+  //"format": "{icon0}{icon1}{icon2}{icon3} {usage:>2}% ",
+   "format": "{usage:>2}% ",
    "format-icons": ["▁", "▂", "▃", "▄", "▅", "▆", "▇", "█"],
 },
  "disk": {
@@ -95,8 +96,6 @@
    "interval": 60,
    "align": 0,
    "rotate": 0,
- //"bat": "BAT1",
- //"adapter": "ACAD",
    "full-at": 100,
    "design-capacity": false,
    "states": {
@@ -108,7 +107,6 @@
    "format-charging": " {capacity}%",
    "format-plugged": " {capacity}%",
    "format-full": "{icon} Full",
- //"format-good": "",
     "format-alt": "{icon} {time}",
     "format-icons": ["", "", "", "", ""],
     "format-time": "{H}h {M}min",
@@ -116,22 +114,21 @@
     "on-click-right": "~/.config/hypr/scripts/glassmorphismToggle"
 },
  "clock": {
-//"interval": 60,
    "align": 0,
    "rotate": 0,
    "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
    "format": "{: %H:%M   %a, %e %b}",
-   //"format-alt": " {:%a %b %d, %G}",
    "on-click-middle": "~/.config/hypr/scripts/changeWallpaper",
 },
   "clock#2": {
-   "format": "{:  %H:%M}",
+   "format": "{:  %H:%M:%S}",
    "tooltip": true,
    "tooltip-format": "{:  %A,  %e %B %Y}",
    "on-click-middle": "~/.config/hypr/scripts/changeWallpaper",
 },
   "clock#3": {
-    "format": " {:%H:%M}",
+    "interval": 1,
+    "format": " {:%H:%M:%S}",
     "format-alt": " {:%H:%M   %Y, %d %B, %A}",
     "tooltip-format": "<tt><small>{calendar}</small></tt>",
     "on-click-middle": "~/.config/hypr/scripts/changeWallpaper",
