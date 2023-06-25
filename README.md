@@ -1,0 +1,2 @@
+ulauncher -> rofi
+mako -> dunst
